@@ -1,3 +1,4 @@
+# library imports....
 import numpy as np
 from tensorflow.keras.datasets import mnist
 from tensorflow.keras.layers import Input,Dense,Flatten,Reshape,Conv2D,Conv2DTranspose,Lambda
